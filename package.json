@@ -2,7 +2,7 @@
   "name": "movies-project",
   "version": "0.1.0",
   "private": true,
-  "hompage": "https://Pyuter.github.io/react-movies",
+  "hompage": "https://pyuter.github.io/react-movies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "depoy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
