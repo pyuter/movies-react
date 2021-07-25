@@ -1,8 +1,8 @@
 {
-  "name": "react-movies",
+  "name": "movies-project",
   "version": "0.1.0",
   "private": true,
-  "hompage": "https://pyuter.github.io/react-movies/",
+  "hompage": "https://pyuter.github.io/react-movies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -39,7 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^0.11.0",
-    "ghpages": "^0.0.10"
+    "gh-pages": "^0.11.0"
   }
 }
